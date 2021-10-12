@@ -1,0 +1,17 @@
+{
+    "name": "max/hexlet-tests",
+    "authors": [
+        {
+            "name": "mgrshn",
+            "email": "grishinma2009@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "require-dev": {
+        "webmozart/assert": "^1.10"
+    }
+}
